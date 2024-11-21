@@ -1,0 +1,5 @@
+ipiranga 50 50 98
+vinhedo 340 230 187
+riacho 500 500 400
+vila 250 130 20
+rio 10 10 10
